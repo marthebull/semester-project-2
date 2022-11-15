@@ -18,6 +18,6 @@ Links:
 
 <a href="https://github.com/marthebull/semester-project-2">Github repo</a>
 
-<a href="#">Netlify</a>
+<a href="https://highestbidder.netlify.app/">Netlify</a>
 
 
