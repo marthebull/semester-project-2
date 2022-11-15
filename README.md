@@ -15,4 +15,6 @@ Figma https://www.figma.com/file/RFc5emi6a6jUG75sDU1LoM/Semester-project-2?node-
 Github https://github.com/marthebull/semester-project-2
 Netlify 
 
+<a href="https://trello.com/b/mR3xnHO4/semester-project-2">Trello</a>
+
 
