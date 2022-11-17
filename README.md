@@ -14,7 +14,7 @@ Links:
 
 <a href="https://www.figma.com/file/RFc5emi6a6jUG75sDU1LoM/Semester-project-2?node-id=1%3A5&t=Z288Z6YUHHkhpNHh-0">Gantt chart</a>
 
-<a href="https://www.figma.com/file/RFc5emi6a6jUG75sDU1LoM/Semester-project-2?node-id=1%3A4&t=Z288Z6YUHHkhpNHh-0">Figma design files (see several pages)</a>
+<a href="https://www.figma.com/file/RFc5emi6a6jUG75sDU1LoM/Semester-project-2?node-id=1%3A4&t=Z288Z6YUHHkhpNHh-0">Figma design files and prototypes(see several pages)</a>
 
 <a href="https://github.com/marthebull/semester-project-2">Github repo</a>
 
