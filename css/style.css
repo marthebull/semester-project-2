@@ -1,6 +1,20 @@
 @charset "UTF-8";
+.box-shadow-pink {
+  box-shadow: 0 0.5rem 1rem rgba(208, 138, 88, 0.15);
+}
+
 .knewave {
   font-family: "Knewave", cursive;
+}
+
+.credits {
+  width: fit-content;
+  padding: 10px 20px 10px 20px;
+  border-radius: 0 0 5px 5px;
+}
+
+.credits p {
+  margin-bottom: 0;
 }
 
 /*!
@@ -3684,9 +3698,9 @@ textarea.form-control-lg {
   --bs-navbar-hover-color: rgba(0, 0, 0, 0.7);
   --bs-navbar-disabled-color: rgba(0, 0, 0, 0.3);
   --bs-navbar-active-color: rgba(0, 0, 0, 0.9);
-  --bs-navbar-brand-padding-y: 0.3125rem;
+  --bs-navbar-brand-padding-y: -0.4rem;
   --bs-navbar-brand-margin-end: 1rem;
-  --bs-navbar-brand-font-size: 1.25rem;
+  --bs-navbar-brand-font-size: 2.2rem;
   --bs-navbar-brand-color: rgba(0, 0, 0, 0.9);
   --bs-navbar-brand-hover-color: rgba(0, 0, 0, 0.9);
   --bs-navbar-nav-link-padding-x: 0.5rem;
