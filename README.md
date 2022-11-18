@@ -22,9 +22,23 @@ Links:
 <a href="https://highestbidder.netlify.app/">Netlify</a>
 
 
+HUSK!!
+
+- minimize css for production code
+- hva må en installere på en ny maskin for at det skal funke der?
+
 
 Report:
 
 I will be using bootstrap as CSS framework for this project.
+
+
+
+
+Sources:
+
+Navbar code for bootstrap: https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-navbar.php 
+
+
 
 

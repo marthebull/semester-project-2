@@ -1,10 +1,26 @@
 
+$body-bg: #F6E8DE;
+$indigo: #806BFF;
+$pink: #F6E8DE;
+$orange: #D08A58;
+$green: #838E00;
+$gray-600: #F3F3F3;
+$gray-800: #474747;
+
+$primary: #806BFF;
+$dark: #474747;
 
 
-
+$font-family-sans-serif: montserrat, sans-serif;
+.knewave {
+    font-family: 'Knewave', cursive;
+}
 
 
 
 
 @import"../node_modules/bootstrap/scss/bootstrap";
+
+
+
 
