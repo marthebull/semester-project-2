@@ -4,8 +4,8 @@
   "description": "Semester project 2 - 15.11.2022",
   "main": "index.js",
   "scripts": {
-    "build": "sass scss/custom.scss:css/style.css",
-    "watch": "sass --watch scss/custom.scss:css/style.css & live-server"
+    "build": "sass scss:dist/css",
+    "watch": "sass --watch scss:dist/css"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,6 @@
     "bootstrap": "^5.2.0"
   },
   "devDependencies": {
-    "live-server": "^1.2.2",
     "sass": "^1.56.1"
   }
 }
