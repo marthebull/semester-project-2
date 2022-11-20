@@ -1,4 +1,5 @@
 # semester-project-2
+
 Semester project 2 - 15.11.2022
 
 Goal:
@@ -8,8 +9,7 @@ Brief:
 An auction site is looking to launch a website where users can add items to be bid on and bid on items other users have put up for auction.
 When a new user joins the website, they are given 1000 credits to use on the site. They can get credits by selling items and use credit by buying items. Non-registered users can search through the listings, but only registered users can make bids on listings.
 
-
-Links: 
+Links:
 
 <a href="https://trello.com/b/mR3xnHO4/semester-project-2">Trello</a>
 
@@ -21,24 +21,19 @@ Links:
 
 <a href="https://highestbidder.netlify.app/">Netlify</a>
 
+---
 
 HUSK!!
 
 - minimize css for production code
 - hva må en installere på en ny maskin for at det skal funke der?
 
+---
 
 Report:
 
 I will be using bootstrap as CSS framework for this project.
 
-
-
-
 Sources:
 
-Navbar code for bootstrap: https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-navbar.php 
-
-
-
-
+Navbar code for bootstrap: https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-navbar.php
